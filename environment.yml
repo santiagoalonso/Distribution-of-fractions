@@ -13,4 +13,4 @@ dependencies:
   - IPython
   - statsmodels
   - patsy
-  - cv2
+  - opencv-python
