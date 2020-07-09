@@ -7,10 +7,11 @@ dependencies:
   - pandas
   - scipy
   - pip
+  - pip:
+    - opencv-python
   - matplotlib
   - ipywidgets
   - seaborn
   - IPython
   - statsmodels
   - patsy
-  - opencv-python
